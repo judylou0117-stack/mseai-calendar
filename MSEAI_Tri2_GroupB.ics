@@ -1,0 +1,698 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MSEAI Group B//Tri 2 Timetable//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MSEAI Tri 2 (Group B)
+X-WR-TIMEZONE:Asia/Singapore
+BEGIN:VTIMEZONE
+TZID:Asia/Singapore
+BEGIN:STANDARD
+DTSTART:19820101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:+08
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:mseai-t2-PE6211-20261110@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261110T140000
+DTEND;TZID=Asia/Singapore:20261110T171500
+SUMMARY:PE6211 Agile AI Product Development
+LOCATION:LHN-TR+15 (ARC)
+DESCRIPTION:PE6211 Agile AI Product Development (Group B)\nTeaching Week 
+ 1\nInstructor: Assoc Prof Jagadeesh Balakrishna\nVenue: LHN-TR+15 (ARC)\
+ nSource: Group B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6211 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6205-20261111@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261111T183000
+DTEND;TZID=Asia/Singapore:20261111T214500
+SUMMARY:PE6205 Enterprise AI and Analytics
+LOCATION:LHN-TR+36 (ARC)
+DESCRIPTION:PE6205 Enterprise AI and Analytics (Group B)\nTeaching Week 1
+ \nInstructor: Mr Ajay Vikram Singh\nVenue: LHN-TR+36 (ARC)\nSource: Grou
+ p B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6205 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6206-20261114@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261114T093000
+DTEND;TZID=Asia/Singapore:20261114T124500
+SUMMARY:PE6206 Contemporary Data Architecture\, Management & Governance
+LOCATION:LHN-TR+14 (ARC)
+DESCRIPTION:PE6206 Contemporary Data Architecture\, Management & Governan
+ ce (Group B)\nTeaching Week 1\nInstructor: Mr Koh Choon Chye / Prof Chen
+ g Long\nVenue: LHN-TR+14 (ARC)\nSource: Group B MSEAI calendar Tri 2\, u
+ pdated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6206 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6211-20261117@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261117T140000
+DTEND;TZID=Asia/Singapore:20261117T171500
+SUMMARY:PE6211 Agile AI Product Development
+LOCATION:LHN-TR+14 (ARC)
+DESCRIPTION:PE6211 Agile AI Product Development (Group B)\nTeaching Week 
+ 2\nInstructor: Assoc Prof Jagadeesh Balakrishna\nVenue: LHN-TR+14 (ARC)\
+ nSource: Group B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6211 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6205-20261118@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261118T183000
+DTEND;TZID=Asia/Singapore:20261118T214500
+SUMMARY:PE6205 Enterprise AI and Analytics
+LOCATION:LHN-TR+14 (ARC)
+DESCRIPTION:PE6205 Enterprise AI and Analytics (Group B)\nTeaching Week 2
+ \nInstructor: Mr Ajay Vikram Singh\nVenue: LHN-TR+14 (ARC)\nSource: Grou
+ p B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6205 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6206-20261121@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261121T093000
+DTEND;TZID=Asia/Singapore:20261121T124500
+SUMMARY:PE6206 Contemporary Data Architecture\, Management & Governance
+LOCATION:LHN-TR+12 (ARC)
+DESCRIPTION:PE6206 Contemporary Data Architecture\, Management & Governan
+ ce (Group B)\nTeaching Week 2\nInstructor: Mr Koh Choon Chye / Prof Chen
+ g Long\nVenue: LHN-TR+12 (ARC)\nSource: Group B MSEAI calendar Tri 2\, u
+ pdated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6206 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6211-20261124@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261124T140000
+DTEND;TZID=Asia/Singapore:20261124T171500
+SUMMARY:PE6211 Agile AI Product Development
+LOCATION:LHN-TR+14 (ARC)
+DESCRIPTION:PE6211 Agile AI Product Development (Group B)\nTeaching Week 
+ 3\nInstructor: Assoc Prof Jagadeesh Balakrishna\nVenue: LHN-TR+14 (ARC)\
+ nSource: Group B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6211 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6205-20261125@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261125T183000
+DTEND;TZID=Asia/Singapore:20261125T214500
+SUMMARY:PE6205 Enterprise AI and Analytics
+LOCATION:LHN-TR+30 (ARC)
+DESCRIPTION:PE6205 Enterprise AI and Analytics (Group B)\nTeaching Week 3
+ \nInstructor: Dr Nguwi Yok Yen\nVenue: LHN-TR+30 (ARC)\nSource: Group B 
+ MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6205 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6206-20261128@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261128T093000
+DTEND;TZID=Asia/Singapore:20261128T124500
+SUMMARY:PE6206 Contemporary Data Architecture\, Management & Governance
+LOCATION:LHN-TR+12 (ARC)
+DESCRIPTION:PE6206 Contemporary Data Architecture\, Management & Governan
+ ce (Group B)\nTeaching Week 3\nInstructor: Mr Koh Choon Chye / Prof Chen
+ g Long\nVenue: LHN-TR+12 (ARC)\nSource: Group B MSEAI calendar Tri 2\, u
+ pdated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6206 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6211-20261201@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261201T140000
+DTEND;TZID=Asia/Singapore:20261201T171500
+SUMMARY:PE6211 Agile AI Product Development
+LOCATION:LHN-TR+12 (ARC)
+DESCRIPTION:PE6211 Agile AI Product Development (Group B)\nTeaching Week 
+ 4\nInstructor: Assoc Prof Jagadeesh Balakrishna\nVenue: LHN-TR+12 (ARC)\
+ nSource: Group B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6211 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6205-20261202@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261202T183000
+DTEND;TZID=Asia/Singapore:20261202T214500
+SUMMARY:PE6205 Enterprise AI and Analytics
+LOCATION:LHN-TR+12 (ARC)
+DESCRIPTION:PE6205 Enterprise AI and Analytics (Group B)\nTeaching Week 4
+ \nInstructor: Dr Nguwi Yok Yen\nVenue: LHN-TR+12 (ARC)\nSource: Group B 
+ MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6205 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6206-20261205@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261205T093000
+DTEND;TZID=Asia/Singapore:20261205T124500
+SUMMARY:PE6206 Contemporary Data Architecture\, Management & Governance
+LOCATION:LHN-TR+37 (ARC)
+DESCRIPTION:PE6206 Contemporary Data Architecture\, Management & Governan
+ ce (Group B)\nTeaching Week 4\nInstructor: Mr Koh Choon Chye / Prof Chen
+ g Long\nVenue: LHN-TR+37 (ARC)\nSource: Group B MSEAI calendar Tri 2\, u
+ pdated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6206 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6211-20261208@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261208T140000
+DTEND;TZID=Asia/Singapore:20261208T171500
+SUMMARY:PE6211 Agile AI Product Development
+LOCATION:LHN-TR+36 (ARC)
+DESCRIPTION:PE6211 Agile AI Product Development (Group B)\nTeaching Week 
+ 5\nInstructor: Assoc Prof Jagadeesh Balakrishna\nVenue: LHN-TR+36 (ARC)\
+ nSource: Group B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6211 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6205-20261209@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261209T183000
+DTEND;TZID=Asia/Singapore:20261209T214500
+SUMMARY:PE6205 Enterprise AI and Analytics
+LOCATION:LHN-TR+37 (ARC)
+DESCRIPTION:PE6205 Enterprise AI and Analytics (Group B)\nTeaching Week 5
+ \nInstructor: Dr Nguwi Yok Yen\nVenue: LHN-TR+37 (ARC)\nSource: Group B 
+ MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6205 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6206-20261212@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261212T093000
+DTEND;TZID=Asia/Singapore:20261212T124500
+SUMMARY:PE6206 Contemporary Data Architecture\, Management & Governance
+LOCATION:LHN-TR+37 (ARC)
+DESCRIPTION:PE6206 Contemporary Data Architecture\, Management & Governan
+ ce (Group B)\nTeaching Week 5\nInstructor: Mr Koh Choon Chye / Prof Chen
+ g Long\nVenue: LHN-TR+37 (ARC)\nSource: Group B MSEAI calendar Tri 2\, u
+ pdated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6206 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6211-20261215@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261215T140000
+DTEND;TZID=Asia/Singapore:20261215T171500
+SUMMARY:PE6211 Agile AI Product Development
+LOCATION:LHN-TR+37 (ARC)
+DESCRIPTION:PE6211 Agile AI Product Development (Group B)\nTeaching Week 
+ 6\nInstructor: Assoc Prof Jagadeesh Balakrishna\nVenue: LHN-TR+37 (ARC)\
+ nSource: Group B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6211 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6205-20261216@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261216T183000
+DTEND;TZID=Asia/Singapore:20261216T214500
+SUMMARY:PE6205 Enterprise AI and Analytics
+LOCATION:LHN-TR+37 (ARC)
+DESCRIPTION:PE6205 Enterprise AI and Analytics (Group B)\nTeaching Week 6
+ \nInstructor: Dr Nguwi Yok Yen\nVenue: LHN-TR+37 (ARC)\nSource: Group B 
+ MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6205 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6206-20261219@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20261219T093000
+DTEND;TZID=Asia/Singapore:20261219T124500
+SUMMARY:PE6206 Contemporary Data Architecture\, Management & Governance
+LOCATION:LHN-TR+37 (ARC)
+DESCRIPTION:PE6206 Contemporary Data Architecture\, Management & Governan
+ ce (Group B)\nTeaching Week 6\nInstructor: Mr Koh Choon Chye / Prof Chen
+ g Long\nVenue: LHN-TR+37 (ARC)\nSource: Group B MSEAI calendar Tri 2\, u
+ pdated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6206 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6211-20270105@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270105T140000
+DTEND;TZID=Asia/Singapore:20270105T171500
+SUMMARY:PE6211 Agile AI Product Development
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6211 Agile AI Product Development (Group B)\nTeaching Week 
+ 7\nInstructor: Assoc Prof Jagadeesh Balakrishna\nVenue: TBC\nSource: Gro
+ up B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6211 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6207-20270105@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270105T183000
+DTEND;TZID=Asia/Singapore:20270105T214500
+SUMMARY:PE6207 AI Ecosystems: Platforms\, Integration\, and Tools
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6207 AI Ecosystems: Platforms\, Integration\, and Tools (Gr
+ oup B)\nTeaching Week 7\nInstructor: Dr Zhang Jiehuang / Mr Ong Chin Ann
+  / Asst Prof Samantha Chan\nVenue: TBC\nSource: Group B MSEAI calendar T
+ ri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6207 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6205-20270106@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270106T183000
+DTEND;TZID=Asia/Singapore:20270106T214500
+SUMMARY:PE6205 Enterprise AI and Analytics
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6205 Enterprise AI and Analytics (Group B)\nTeaching Week 7
+ \nInstructor: Asst Prof Tang Qinshen\nVenue: TBC\nSource: Group B MSEAI 
+ calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6205 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6206-20270109@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270109T093000
+DTEND;TZID=Asia/Singapore:20270109T124500
+SUMMARY:PE6206 Contemporary Data Architecture\, Management & Governance
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6206 Contemporary Data Architecture\, Management & Governan
+ ce (Group B)\nTeaching Week 7\nInstructor: Mr Koh Choon Chye / Prof Chen
+ g Long\nVenue: TBC\nSource: Group B MSEAI calendar Tri 2\, updated 2 Nov
+  2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6206 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6211-20270112@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270112T140000
+DTEND;TZID=Asia/Singapore:20270112T171500
+SUMMARY:PE6211 Agile AI Product Development
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6211 Agile AI Product Development (Group B)\nTeaching Week 
+ 8\nInstructor: Assoc Prof Jagadeesh Balakrishna\nVenue: TBC\nSource: Gro
+ up B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6211 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6207-20270112@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270112T183000
+DTEND;TZID=Asia/Singapore:20270112T214500
+SUMMARY:PE6207 AI Ecosystems: Platforms\, Integration\, and Tools
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6207 AI Ecosystems: Platforms\, Integration\, and Tools (Gr
+ oup B)\nTeaching Week 8\nInstructor: Dr Zhang Jiehuang / Mr Ong Chin Ann
+  / Asst Prof Samantha Chan\nVenue: TBC\nSource: Group B MSEAI calendar T
+ ri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6207 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6205-20270113@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270113T183000
+DTEND;TZID=Asia/Singapore:20270113T214500
+SUMMARY:PE6205 Enterprise AI and Analytics
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6205 Enterprise AI and Analytics (Group B)\nTeaching Week 8
+ \nInstructor: Asst Prof Tang Qinshen\nVenue: TBC\nSource: Group B MSEAI 
+ calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6205 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6206-20270116@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270116T093000
+DTEND;TZID=Asia/Singapore:20270116T124500
+SUMMARY:PE6206 Contemporary Data Architecture\, Management & Governance
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6206 Contemporary Data Architecture\, Management & Governan
+ ce (Group B)\nTeaching Week 8\nInstructor: Mr Koh Choon Chye / Prof Chen
+ g Long\nVenue: TBC\nSource: Group B MSEAI calendar Tri 2\, updated 2 Nov
+  2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6206 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6211-20270119@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270119T140000
+DTEND;TZID=Asia/Singapore:20270119T171500
+SUMMARY:PE6211 Agile AI Product Development
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6211 Agile AI Product Development (Group B)\nTeaching Week 
+ 9\nInstructor: Assoc Prof Jagadeesh Balakrishna\nVenue: TBC\nSource: Gro
+ up B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6211 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6207-20270119@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270119T183000
+DTEND;TZID=Asia/Singapore:20270119T214500
+SUMMARY:PE6207 AI Ecosystems: Platforms\, Integration\, and Tools
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6207 AI Ecosystems: Platforms\, Integration\, and Tools (Gr
+ oup B)\nTeaching Week 9\nInstructor: Dr Zhang Jiehuang / Mr Ong Chin Ann
+  / Asst Prof Samantha Chan\nVenue: TBC\nSource: Group B MSEAI calendar T
+ ri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6207 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6205-20270120@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270120T183000
+DTEND;TZID=Asia/Singapore:20270120T214500
+SUMMARY:PE6205 Enterprise AI and Analytics
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6205 Enterprise AI and Analytics (Group B)\nTeaching Week 9
+ \nInstructor: Asst Prof Tang Qinshen\nVenue: TBC\nSource: Group B MSEAI 
+ calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6205 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6206-20270123@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270123T093000
+DTEND;TZID=Asia/Singapore:20270123T124500
+SUMMARY:PE6206 Contemporary Data Architecture\, Management & Governance
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6206 Contemporary Data Architecture\, Management & Governan
+ ce (Group B)\nTeaching Week 9\nInstructor: Mr Koh Choon Chye / Prof Chen
+ g Long\nVenue: TBC\nSource: Group B MSEAI calendar Tri 2\, updated 2 Nov
+  2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6206 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6211-20270126@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270126T140000
+DTEND;TZID=Asia/Singapore:20270126T171500
+SUMMARY:PE6211 Agile AI Product Development
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6211 Agile AI Product Development (Group B)\nTeaching Week 
+ 10\nInstructor: Assoc Prof Jagadeesh Balakrishna\nVenue: TBC\nSource: Gr
+ oup B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6211 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6207-20270126@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270126T183000
+DTEND;TZID=Asia/Singapore:20270126T214500
+SUMMARY:PE6207 AI Ecosystems: Platforms\, Integration\, and Tools
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6207 AI Ecosystems: Platforms\, Integration\, and Tools (Gr
+ oup B)\nTeaching Week 10\nInstructor: Dr Zhang Jiehuang / Mr Ong Chin An
+ n / Asst Prof Samantha Chan\nVenue: TBC\nSource: Group B MSEAI calendar 
+ Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6207 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6205-20270127@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270127T183000
+DTEND;TZID=Asia/Singapore:20270127T214500
+SUMMARY:PE6205 Enterprise AI and Analytics
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6205 Enterprise AI and Analytics (Group B)\nTeaching Week 1
+ 0\nInstructor: Asst Prof Tang Qinshen\nVenue: TBC\nSource: Group B MSEAI
+  calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6205 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6206-20270130@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270130T093000
+DTEND;TZID=Asia/Singapore:20270130T124500
+SUMMARY:PE6206 Contemporary Data Architecture\, Management & Governance
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6206 Contemporary Data Architecture\, Management & Governan
+ ce (Group B)\nTeaching Week 10\nInstructor: Mr Koh Choon Chye / Prof Che
+ ng Long\nVenue: TBC\nSource: Group B MSEAI calendar Tri 2\, updated 2 No
+ v 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6206 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6211-20270202@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270202T140000
+DTEND;TZID=Asia/Singapore:20270202T171500
+SUMMARY:PE6211 Agile AI Product Development
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6211 Agile AI Product Development (Group B)\nTeaching Week 
+ 11\nInstructor: Assoc Prof Jagadeesh Balakrishna\nVenue: TBC\nSource: Gr
+ oup B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6211 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6207-20270202@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270202T183000
+DTEND;TZID=Asia/Singapore:20270202T214500
+SUMMARY:PE6207 AI Ecosystems: Platforms\, Integration\, and Tools
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6207 AI Ecosystems: Platforms\, Integration\, and Tools (Gr
+ oup B)\nTeaching Week 11\nInstructor: Dr Zhang Jiehuang / Mr Ong Chin An
+ n / Asst Prof Samantha Chan\nVenue: TBC\nSource: Group B MSEAI calendar 
+ Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6207 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6205-20270203@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270203T183000
+DTEND;TZID=Asia/Singapore:20270203T214500
+SUMMARY:PE6205 Enterprise AI and Analytics
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6205 Enterprise AI and Analytics (Group B)\nTeaching Week 1
+ 1\nInstructor: Mr Ajay Vikram Singh\nVenue: TBC\nSource: Group B MSEAI c
+ alendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6205 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6211-20270209@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270209T140000
+DTEND;TZID=Asia/Singapore:20270209T171500
+SUMMARY:PE6211 Agile AI Product Development
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6211 Agile AI Product Development (Group B)\nTeaching Week 
+ 12\nInstructor: Assoc Prof Jagadeesh Balakrishna\nVenue: TBC\nSource: Gr
+ oup B MSEAI calendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6211 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6207-20270209@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270209T183000
+DTEND;TZID=Asia/Singapore:20270209T214500
+SUMMARY:PE6207 AI Ecosystems: Platforms\, Integration\, and Tools
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6207 AI Ecosystems: Platforms\, Integration\, and Tools (Gr
+ oup B)\nTeaching Week 12\nInstructor: Dr Zhang Jiehuang / Mr Ong Chin An
+ n / Asst Prof Samantha Chan\nVenue: TBC\nSource: Group B MSEAI calendar 
+ Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6207 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6205-20270210@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270210T183000
+DTEND;TZID=Asia/Singapore:20270210T214500
+SUMMARY:PE6205 Enterprise AI and Analytics
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6205 Enterprise AI and Analytics (Group B)\nTeaching Week 1
+ 2\nInstructor: Mr Ajay Vikram Singh\nVenue: TBC\nSource: Group B MSEAI c
+ alendar Tri 2\, updated 2 Nov 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6205 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-PE6206-20270213@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=Asia/Singapore:20270213T093000
+DTEND;TZID=Asia/Singapore:20270213T124500
+SUMMARY:PE6206 Contemporary Data Architecture\, Management & Governance
+LOCATION:TBC (venue to be confirmed)
+DESCRIPTION:PE6206 Contemporary Data Architecture\, Management & Governan
+ ce (Group B)\nTeaching Week 12\nInstructor: Mr Koh Choon Chye / Prof Che
+ ng Long\nVenue: TBC\nSource: Group B MSEAI calendar Tri 2\, updated 2 No
+ v 2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PE6206 in 30 min
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mseai-t2-exam-week@groupb
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270221
+SUMMARY:Exam week (Trimester 2)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
